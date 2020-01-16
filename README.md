@@ -1,10 +1,11 @@
 # Pinger-Game
 Mengatasi Jaringan Yang Lamban Dalam Bermain Game
 
-Update:
-- Proxy: Elite
+°Update:
 
-Cara Install
+°Proxy: Elite
+
+°Cara Install
 
 $ pkg update && pkg upgrade
 
@@ -20,7 +21,7 @@ $ chmod +x Game.sh
 
 $ bash Game.sh
 
-Pilihan:
+°Pilihan:
 
 - Free Fire
 
@@ -28,6 +29,6 @@ Pilihan:
 
 - Scroll On Myoji
 
--Growtopia
+- Growtopia
 
 ~~~~Selsai~~~~
