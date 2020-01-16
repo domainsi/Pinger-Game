@@ -1,11 +1,12 @@
-# Pinger-Game
+Pinger-Game
+
 Mengatasi Jaringan Yang Lamban Dalam Bermain Game
 
-°Update:
+Update:
 
-°Proxy: Elite
+Proxy: Elite
 
-°Cara Install
+Cara Install:
 
 $ pkg update && pkg upgrade
 
