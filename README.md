@@ -7,9 +7,27 @@ Update:
 Cara Install
 
 $ pkg update && pkg upgrade
+
 $ pkg install bash
+
 $ pkg install git
-$ git clone
-$ cd
-$ chmod +x
-$ bash
+
+$ git clone https://github.com/domainsi/Pinger-Game
+
+$ cd Pinger-Game
+
+$ chmod +x Game.sh
+
+$ bash Game.sh
+
+Pilihan:
+
+- Free Fire
+
+- Mobile Legend
+
+- Scroll On Myoji
+
+-Growtopia
+
+~~~~Selsai~~~~
